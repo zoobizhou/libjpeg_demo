@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libjpeg", "libjpeg\libjpeg.vcxproj", "{F5282201-4C20-437A-B2D2-9E6838855EA1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_jpeg", "test_jpeg\test_jpeg.vcxproj", "{562CD9C8-319F-4802-86E7-717014E6DE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5282201-4C20-437A-B2D2-9E6838855EA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5282201-4C20-437A-B2D2-9E6838855EA1}.Debug|Win32.Build.0 = Debug|Win32
+		{F5282201-4C20-437A-B2D2-9E6838855EA1}.Release|Win32.ActiveCfg = Release|Win32
+		{F5282201-4C20-437A-B2D2-9E6838855EA1}.Release|Win32.Build.0 = Release|Win32
+		{562CD9C8-319F-4802-86E7-717014E6DE92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{562CD9C8-319F-4802-86E7-717014E6DE92}.Debug|Win32.Build.0 = Debug|Win32
+		{562CD9C8-319F-4802-86E7-717014E6DE92}.Release|Win32.ActiveCfg = Release|Win32
+		{562CD9C8-319F-4802-86E7-717014E6DE92}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

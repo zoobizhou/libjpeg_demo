@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/1/13 23:25:37。
+     1>项目“D:\VS_Programer\libjpeg\test_jpeg\test_jpeg.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\VS_Programer\libjpeg\test_jpeg\lib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt test_jpeg.cpp
+         test_jpeg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS_Programer\libjpeg\Debug\test_jpeg.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\VS_Programer\libjpeg\test_jpeg\lib libjpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS_Programer\libjpeg\Debug\test_jpeg.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS_Programer\libjpeg\Debug\test_jpeg.lib" /MACHINE:X86 Debug\test_jpeg.obj
+         test_jpeg.vcxproj -> D:\VS_Programer\libjpeg\Debug\test_jpeg.exe
+     1>已完成生成项目“D:\VS_Programer\libjpeg\test_jpeg\test_jpeg.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78
